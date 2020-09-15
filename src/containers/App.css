@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Segoe UI Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Segoe UI Bold Italic'), url('Segoe UI Bold Italic.woff') format('woff');
+    }
+h1{
+    font-family: 'SEGOE FONT';
+    font-weight: 200;
+    color: #0ccac4; 
+    
+}
